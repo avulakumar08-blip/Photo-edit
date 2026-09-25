@@ -1,0 +1,11 @@
+{
+  "name": "Photo Editor",
+  "description": "Professional mobile photo editor with non-destructive adjustments, filters, effects, crop, text, stickers, drawing, local projects, and Google Drive cloud backup.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
